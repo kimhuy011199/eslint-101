@@ -1,5 +1,9 @@
 # ESLint
 
+<p align="center">
+  <img width="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png">
+</p>
+
 ## Introduction
 
 ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code, with the goal of making code more consistent and avoiding bugs.
