@@ -1,0 +1,19 @@
+{
+  "name": "eslint-101",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint . --ext .js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-kimhuy011199:kimhuy011199/eslint-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
+}
